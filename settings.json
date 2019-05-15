@@ -1,0 +1,13 @@
+{
+    "editor.renderWhitespace": "boundary",
+    "editor.wordWrap": "wordWrapColumn",
+    "editor.acceptSuggestionOnEnter": "off",
+    "terminal.integrated.shell.windows": "C:\\windows\\System32\\wsl.exe",
+    "workbench.startupEditor": "none",
+    "window.restoreWindows": "none",
+    "vim.useSystemClipboard": true,
+    "vim.hlsearch": true,
+    "files.eol": "\n",
+    "editor.minimap.renderCharacters": false,
+    "workbench.editor.enablePreview": false
+}
