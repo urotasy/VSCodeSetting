@@ -9,5 +9,7 @@
     "vim.hlsearch": true,
     "files.eol": "\n",
     "editor.minimap.renderCharacters": false,
-    "workbench.editor.enablePreview": false
+    "workbench.editor.enablePreview": false,
+    "editor.minimap.showSlider": "always",
+    "editor.renderControlCharacters": true
 }
