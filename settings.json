@@ -1,15 +1,18 @@
 {
-    "editor.renderWhitespace": "boundary",
-    "editor.wordWrap": "wordWrapColumn",
     "editor.acceptSuggestionOnEnter": "off",
+    "editor.insertSpaces": true,
+    "editor.minimap.renderCharacters": false,
+    "editor.minimap.showSlider": "always",
+    "editor.quickSuggestions": false,
+    "editor.renderControlCharacters": true,
+    "editor.renderWhitespace": "boundary",
+    "editor.tabSize": 4,
+    "editor.wordWrap": "wordWrapColumn",
+    "files.eol": "\n",
     "terminal.integrated.shell.windows": "C:\\windows\\System32\\wsl.exe",
-    "workbench.startupEditor": "none",
-    "window.restoreWindows": "none",
     "vim.useSystemClipboard": true,
     "vim.hlsearch": true,
-    "files.eol": "\n",
-    "editor.minimap.renderCharacters": false,
+    "window.restoreWindows": "none",
     "workbench.editor.enablePreview": false,
-    "editor.minimap.showSlider": "always",
-    "editor.renderControlCharacters": true
+    "workbench.startupEditor": "none"
 }
