@@ -9,6 +9,7 @@
     "editor.tabSize": 4,
     "editor.wordWrap": "wordWrapColumn",
     "files.eol": "\n",
+    "remote.SSH.showLoginTerminal": true,
     "terminal.integrated.shell.windows": "C:\\windows\\System32\\wsl.exe",
     "vim.useSystemClipboard": true,
     "vim.hlsearch": true,
