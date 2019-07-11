@@ -15,5 +15,6 @@
     "vim.hlsearch": true,
     "window.restoreWindows": "none",
     "workbench.editor.enablePreview": false,
-    "workbench.startupEditor": "none"
+    "workbench.startupEditor": "none",
+    "workbench.tree.renderIndentGuides": "always"
 }
