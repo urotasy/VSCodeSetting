@@ -1,5 +1,7 @@
 {
     "editor.acceptSuggestionOnEnter": "off",
+    "editor.detectIndentation": false,
+    "editor.fontFamily": "'HackGen'",
     "editor.insertSpaces": true,
     "editor.minimap.renderCharacters": false,
     "editor.minimap.showSlider": "always",
@@ -11,8 +13,8 @@
     "files.eol": "\n",
     "remote.SSH.showLoginTerminal": true,
     "terminal.integrated.shell.windows": "C:\\windows\\System32\\wsl.exe",
-    "vim.useSystemClipboard": true,
-    "vim.hlsearch": true,
+    // "vim.useSystemClipboard": true,
+    // "vim.hlsearch": true,
     "window.restoreWindows": "none",
     "workbench.editor.enablePreview": false,
     "workbench.startupEditor": "none",
