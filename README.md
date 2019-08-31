@@ -1,3 +1,3 @@
-# MyVSCodeSetting
-My setting of Visual Studio Code.  
-These .json file are in "C:\Users\username\AppData\Roaming\Code\User".
+# VSCodeSetting
+Setting of Visual Studio Code.  
+In windows, these .json file are in "C:\Users\\<username\>\AppData\Roaming\Code\User".
